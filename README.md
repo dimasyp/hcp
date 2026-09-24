@@ -1,2 +1,2 @@
-# hcp
+# HCP
 Introduction to Human Capital
